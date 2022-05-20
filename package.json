@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Alec-Duval/MyWebsite/issues"
   },
-  "homepage": "https://github.com/Alec-Duval/MyWebsite#readme"
+  "homepage": "https://github.com/Alec-Duval/MyWebsite#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
 }
