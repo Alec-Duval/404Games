@@ -1,0 +1,14 @@
+.games {
+	display: grid;
+	grid-template-columns: 400px 400px 400px;
+	gap: 50px 50px;
+}
+
+body {
+	font-family: Georgia
+}
+
+p {
+	text-indent: 50px;
+	width: 1000px;
+}

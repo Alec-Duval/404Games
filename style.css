@@ -1,0 +1,14 @@
+body {
+	font-family: Georgia
+}
+
+h1 {
+	font-size: 64px;
+	margin-top: 8px;
+	margin-bottom: 0px;
+}
+
+p {
+	text-indent: 50px;
+	width: 1000px;
+}
